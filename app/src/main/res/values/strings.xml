@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KoPapirOllo</string>
+    <string name="g_p">Gép</string>
+    <string name="j_t_kos">Játékos</string>
+    <string name="gep">Gép</string>
+    <string name="jatekos">Játékos</string>
+    <string name="d_ntetlenek_sz_ma_0">Döntetlenek száma: 0</string>
+    <string name="a_g_p_v_laszt_sa">A gép választása</string>
+    <string name="a_te_v_laszt_sod">A te választásod</string>
+</resources>
